@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import json
 import re
 from pathlib import Path
 
@@ -80,6 +81,20 @@ def compact(row: dict[str, str], details: bool) -> str:
     return "\t".join(fields)
 
 
+def as_json_row(row: dict[str, str]) -> dict[str, str | list[str]]:
+    return {
+        "language": row["语言"],
+        "source": row["原文"],
+        "preferred_zh": row["首选简中译名"],
+        "aliases": [item.strip() for item in row["别名"].split("|") if item.strip()],
+        "category": row["类别"],
+        "work": row["适用作品"],
+        "note": row["备注"],
+        "evidence": row["依据"],
+        "status": row["状态"],
+    }
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     group = parser.add_mutually_exclusive_group(required=True)
@@ -91,6 +106,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--language", choices=("ja", "en"))
     parser.add_argument("--limit", type=int, default=20)
     parser.add_argument("--details", action="store_true")
+    parser.add_argument("--json", action="store_true", help="Output matches as JSON")
     parser.add_argument(
         "--domain",
         choices=("auto", "all", "core", "weapons", "stages", "gear"),
@@ -166,16 +182,22 @@ def main() -> int:
             filtered.append((score, row))
 
     emitted: set[tuple[str, str, str]] = set()
+    output_rows: list[dict[str, str]] = []
     count = 0
     for _, row in filtered:
         key = (row["语言"], row["原文"], row["首选简中译名"])
         if key in emitted:
             continue
-        print(compact(row, args.details))
+        output_rows.append(row)
         emitted.add(key)
         count += 1
         if count >= args.limit:
             break
+    if args.json:
+        print(json.dumps([as_json_row(row) for row in output_rows], ensure_ascii=False))
+    else:
+        for row in output_rows:
+            print(compact(row, args.details))
     return 0
 
 

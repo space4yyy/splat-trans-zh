@@ -8,7 +8,7 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-from glossary_files import resolve_glossaries
+from glossary_files import group_for_category, resolve_glossaries
 
 REQUIRED_COLUMNS = [
     "原文",
@@ -23,6 +23,8 @@ REQUIRED_COLUMNS = [
 ]
 ALLOWED_LANGUAGES = {"ja", "en"}
 ALLOWED_STATUSES = {"verified", "community", "contextual", "review"}
+PLACEHOLDER_VALUES = {"-", "—", "N/A", "n/a", "None", "none", "null"}
+GENERATED_EVIDENCE_PREFIX = "游戏语言文件："
 
 
 def validate(paths: list[Path]) -> list[str]:
@@ -49,6 +51,8 @@ def validate(paths: list[Path]) -> list[str]:
                 source = row["原文"].strip()
                 language = row["语言"].strip()
                 preferred = row["首选简中译名"].strip()
+                category = row["类别"].strip()
+                evidence = row["依据"].strip()
                 status = row["状态"].strip()
 
                 for column in ("原文", "语言", "首选简中译名", "类别", "适用作品", "依据", "状态"):
@@ -59,6 +63,26 @@ def validate(paths: list[Path]) -> list[str]:
                     errors.append(f"{location}：未知语言 {language!r}")
                 if status not in ALLOWED_STATUSES:
                     errors.append(f"{location}：未知状态 {status!r}")
+                if source in PLACEHOLDER_VALUES or preferred in PLACEHOLDER_VALUES:
+                    errors.append(
+                        f"{location}：术语和译名不能使用占位值 {source!r}/{preferred!r}"
+                    )
+                if "\n" in source or "\r" in source or "\n" in preferred or "\r" in preferred:
+                    errors.append(f"{location}：术语和译名不能包含换行控制字符")
+                if source != row["原文"] or preferred != row["首选简中译名"]:
+                    errors.append(f"{location}：原文和首选简中译名不能有首尾空白")
+
+                expected_group = group_for_category(category)
+                if path.suffix == ".tsv" and path.stem in {"core", "weapons", "stages", "gear"} and path.stem != expected_group:
+                    errors.append(
+                        f"{location}：类别 {category!r} 应放在 {expected_group}.tsv"
+                    )
+                if status == "community" and evidence.startswith(GENERATED_EVIDENCE_PREFIX):
+                    errors.append(f"{location}：游戏语言文件依据不能标为 community")
+                if status in {"contextual", "review"} and not row["备注"].strip():
+                    errors.append(f"{location}：{status} 状态必须填写备注")
+                if "http://" in evidence:
+                    errors.append(f"{location}：依据 URL 必须使用 HTTPS")
 
                 key = (language, source.casefold())
                 if key in seen:
@@ -68,9 +92,18 @@ def validate(paths: list[Path]) -> list[str]:
                 else:
                     seen[key] = global_line
 
+                row_aliases: set[str] = set()
                 for alias in row["别名"].split("|"):
                     alias = alias.strip()
                     if alias:
+                        alias_key = alias.casefold()
+                        if alias_key in row_aliases:
+                            errors.append(f"{location}：重复别名 {alias}")
+                        row_aliases.add(alias_key)
+                        if alias == source:
+                            errors.append(f"{location}：别名不能与原文相同 {alias}")
+                        if alias in PLACEHOLDER_VALUES:
+                            errors.append(f"{location}：别名不能使用占位值 {alias}")
                         aliases[(language, alias.casefold())].add(preferred)
 
     for (language, alias), preferred_terms in sorted(aliases.items()):

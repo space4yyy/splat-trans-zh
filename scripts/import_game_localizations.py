@@ -117,6 +117,8 @@ def generated_rows(
             en = clean_text(language_sections["en"][message_id])
             if not ja or not zh or not en:
                 continue
+            if ja == "-" or zh == "-" or en == "-":
+                continue
 
             # Side Order has untranslated generic weapon-class placeholders.
             if message_id.endswith("_Sdodr") and ja == zh == en:

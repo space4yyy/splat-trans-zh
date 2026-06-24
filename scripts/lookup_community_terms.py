@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import json
 import re
 from pathlib import Path
 
@@ -56,6 +57,7 @@ def parse_args() -> argparse.Namespace:
     group.add_argument("--text")
     group.add_argument("--query")
     parser.add_argument("--details", action="store_true")
+    parser.add_argument("--json", action="store_true", help="Output matches as JSON")
     parser.add_argument("--limit", type=int, default=15)
     parser.add_argument("--terms", type=Path, default=DEFAULT_TERMS)
     parser.add_argument(
@@ -76,6 +78,18 @@ def context_confidence(term: str, text: str, mode: str) -> str:
         return "需确认"
     hints = (*AMBIGUOUS_TERMS[term], *SPLATOON_HINTS)
     return "可能" if any(hint in text for hint in hints) else "需确认"
+
+
+def as_json_row(row: dict[str, str], confidence: str) -> dict[str, str]:
+    return {
+        "source": row["日文"],
+        "recommended_zh": row["推荐简中"],
+        "category": row["类别"],
+        "note": row["说明"],
+        "source_url": row["来源"],
+        "status": row["状态"],
+        "context_confidence": confidence,
+    }
 
 
 def main() -> int:
@@ -110,7 +124,23 @@ def main() -> int:
         if occurrences > covered:
             filtered.append(row)
 
-    for row in filtered[: args.limit]:
+    output_rows = filtered[: args.limit]
+    if args.json:
+        print(
+            json.dumps(
+                [
+                    as_json_row(
+                        row,
+                        context_confidence(row["日文"], text, args.context),
+                    )
+                    for row in output_rows
+                ],
+                ensure_ascii=False,
+            )
+        )
+        return 0
+
+    for row in output_rows:
         fields = [row["日文"], row["推荐简中"], row["类别"], row["说明"]]
         confidence = context_confidence(row["日文"], text, args.context)
         if confidence != "确定":

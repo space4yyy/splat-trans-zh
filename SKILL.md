@@ -33,6 +33,17 @@ python3 scripts/lookup_community_terms.py --text '<source text>'
 
 对既可能是简称、也可能是普通日语词的表达，只有在斯普拉遁语境成立时才采用社群含义。社群查询会把歧义匹配标成 `语境=可能` 或 `语境=需确认`；必须结合句子判断，不要自动接受。只有周围材料明确是游戏语境时，才使用 `--context splatoon`。正式文本优先官方全名，玩家闲聊优先通行中文昵称。
 
+按文本类型选择查找路径：
+
+| 场景 | 先查 | 再查 | 输出原则 |
+| --- | --- | --- | --- |
+| 游戏内名称、UI、武器、地图、装备 | `references/glossary/*.tsv` | 当前官方简中资料 | 用官方或表内首选译名 |
+| 攻略、社交帖、玩家吐槽 | `references/glossary/*.tsv` | `references/community-terms.tsv` | 正式名称和通行黑话按语境混用 |
+| 对战简称、战术黑话、鲑鱼跑口语 | `references/community-terms.tsv` | 日文社群来源 | 只在游戏语境成立时采用社群含义 |
+| 新赛季、更新公告、未入表新名词 | 当前官方资料 | `references/glossary/*.tsv` | 来源不足时保留 `「原文」` 并说明待确认 |
+| 人名、团体、歌曲、品牌、活动标题 | `references/glossary/*.tsv` | 官方页面或游戏数据 | 未确认时保留 `「原文」`，不要音译 |
+| 纯普通日英文本 | 不查表 | 无 | 直接自然翻译，不强行套斯普拉遁术语 |
+
 只在需要时读取额外文件：
 
 - `references/translation-guide.md`：处理歧义、黑话、对话、截图、双关、校对、更新公告或来源冲突。
