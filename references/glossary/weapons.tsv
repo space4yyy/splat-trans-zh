@@ -1,0 +1,477 @@
+原文	语言	首选简中译名	别名	类别	适用作品	备注	依据	状态
+Rainmaker	en	真格鱼虎	鱼虎|真格鱼虎对战	特殊武器	斯普拉遁3	“鱼虎”可用于上下文明确的简称	游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpGachihoko	verified
+sub weapon	en	副武器	副武	武器系统	全系列		官方繁中名及简中社区惯例	verified
+サブウェポン	ja	副武器	副武	武器系统	全系列		官方繁中名及日文系统名	verified
+special weapon	en	特殊武器	大招|特殊武器	武器系统	全系列	“大招”仅用于社区口语	官方繁中名及简中社区惯例	verified
+スペシャルウェポン	ja	特殊武器	大招	武器系统	全系列		官方繁中名及日文系统名	verified
+Shooter	en	射击枪	枪	武器类别	全系列		官方繁中名	verified
+シューター	ja	射击枪	枪	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Shooter	verified
+Roller	en	滚筒		武器类别	全系列		官方繁中名	verified
+ローラー	ja	滚筒		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Roller	verified
+Charger	en	蓄力狙击枪	狙|狙击枪	武器类别	全系列	社区简称需上下文明确	官方繁中名及简中社区惯例	verified
+チャージャー	ja	蓄力狙击枪	狙|狙击枪	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Charger	verified
+Slosher	en	飞溅泼桶	桶|泼桶	主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Strong_00	verified
+スロッシャー	ja	泼桶	桶	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Slosher	verified
+Splatling	en	旋转枪	加特林	武器类别	全系列		官方繁中名及简中社区惯例	verified
+スピナー	ja	旋转枪	加特林	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Spinner	verified
+Dualies	en	机动枪	双枪	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Maneuver	verified
+マニューバー	ja	机动枪	双枪	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Maneuver	verified
+Brella	en	防空伞	伞	武器类别	斯普拉遁2|斯普拉遁3		官方繁中名及简中社区惯例	verified
+シェルター	ja	防空伞	伞	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Shelter	verified
+Brush	en	画笔	笔刷|笔	武器类别	全系列	具体武器可能属于滚筒类别分支	简中社区惯例	community
+フデ	ja	画笔	笔刷|笔	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Brush	verified
+Stringer	en	弓	弓类	武器类别	斯普拉遁3		官方繁中名及简中社区惯例	verified
+ストリンガー	ja	猎鱼弓	弓类|弓	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Stringer	verified
+Splatana	en	刮水刀	刀	武器类别	斯普拉遁3		官方繁中名及简中社区惯例	verified
+ワイパー	ja	刮水刀	刀	武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Saber	verified
+Grizzco Blaster	en	熊先生印章爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Bear_Coop	verified
+クマサン印のブラスター	ja	熊先生印章爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Bear_Coop	verified
+Rapid Blaster Pro	en	快速爆破枪 精英		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightLong_00	verified
+Rブラスターエリート	ja	快速爆破枪 精英		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightLong_00	verified
+Rapid Blaster Pro Deco	en	快速爆破枪 精英装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightLong_01	verified
+Rブラスターエリートデコ	ja	快速爆破枪 精英装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightLong_01	verified
+Rapid Blaster Pro WNT-R	en	快速爆破枪 精英WNTR		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightLong_02	verified
+RブラスターエリートWNTR	ja	快速爆破枪 精英WNTR		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightLong_02	verified
+Clash Blaster	en	冲涂爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightShort_00	verified
+クラッシュブラスター	ja	冲涂爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightShort_00	verified
+Clash Blaster Neo	en	冲涂爆破枪 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightShort_01	verified
+クラッシュブラスターネオ	ja	冲涂爆破枪 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_LightShort_01	verified
+Rapid Blaster	en	快速爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Light_00	verified
+ラピッドブラスター	ja	快速爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Light_00	verified
+Rapid Blaster Deco	en	快速爆破枪 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Light_01	verified
+ラピッドブラスターデコ	ja	快速爆破枪 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Light_01	verified
+Range Blaster	en	远距爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Long_00	verified
+ロングブラスター	ja	远距爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Long_00	verified
+Custom Range Blaster	en	远距爆破枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Long_01	verified
+ロングブラスターカスタム	ja	远距爆破枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Long_01	verified
+Blaster	en	火热爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Middle_00	verified
+ホットブラスター	ja	火热爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Middle_00	verified
+Custom Blaster	en	火热爆破枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Middle_01	verified
+ホットブラスターカスタム	ja	火热爆破枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Middle_01	verified
+Gleamz Blaster	en	火热爆破枪 艳		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Middle_02	verified
+ホットブラスター艶	ja	火热爆破枪 艳		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Middle_02	verified
+S-BLAST '92	en	S-BLAST92		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Precision_00	verified
+S-BLAST92	ja	S-BLAST92		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Precision_00	verified
+S-BLAST '91	en	S-BLAST91		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Precision_01	verified
+S-BLAST91	ja	S-BLAST91		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Precision_01	verified
+-	en	-		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_RivalLv1_00	verified
+-	ja	-		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_RivalLv1_00	verified
+Luna Blaster	en	新星爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Short_00	verified
+ノヴァブラスター	ja	新星爆破枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Short_00	verified
+Luna Blaster Neo	en	新星爆破枪 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Short_01	verified
+ノヴァブラスターネオ	ja	新星爆破枪 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Short_01	verified
+Order Blaster Replica	en	秩序爆破枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Short_O	verified
+オーダーブラスター レプリカ	ja	秩序爆破枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Blaster_Short_O	verified
+Painbrush	en	文森		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Heavy_00	verified
+フィンセント	ja	文森		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Heavy_00	verified
+Painbrush Nouveau	en	文森·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Heavy_01	verified
+フィンセント・ヒュー	ja	文森·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Heavy_01	verified
+Painbrush BRN-Z	en	文森BRNZ		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Heavy_02	verified
+フィンセントBRNZ	ja	文森BRNZ		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Heavy_02	verified
+Inkbrush	en	巴勃罗		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Mini_00	verified
+パブロ	ja	巴勃罗		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Mini_00	verified
+Inkbrush Nouveau	en	巴勃罗·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Mini_01	verified
+パブロ・ヒュー	ja	巴勃罗·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Mini_01	verified
+Octobrush	en	北斋		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Normal_00	verified
+ホクサイ	ja	北斋		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Normal_00	verified
+Octobrush Nouveau	en	北斋·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Normal_01	verified
+ホクサイ・ヒュー	ja	北斋·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Normal_01	verified
+Cometz Octobrush	en	北斋 彗		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Normal_02	verified
+ホクサイ彗	ja	北斋 彗		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Normal_02	verified
+Orderbrush Replica	en	秩序排刷 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Normal_O	verified
+オーダーブラシ レプリカ	ja	秩序排刷 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Brush_Normal_O	verified
+Grizzco Charger	en	熊先生印章狙击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Bear_Coop	verified
+クマサン印のチャージャー	ja	熊先生印章狙击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Bear_Coop	verified
+Goo Tuber	en	高压油管枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Keeper_00	verified
+ソイチューバー	ja	高压油管枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Keeper_00	verified
+Custom Goo Tuber	en	高压油管枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Keeper_01	verified
+ソイチューバーカスタム	ja	高压油管枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Keeper_01	verified
+Bamboozler 14 Mk I	en	14式竹筒枪·甲		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Light_00	verified
+14式竹筒銃・甲	ja	14式竹筒枪·甲		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Light_00	verified
+Bamboozler 14 Mk II	en	14式竹筒枪·乙		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Light_01	verified
+14式竹筒銃・乙	ja	14式竹筒枪·乙		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Light_01	verified
+E-liter 4K Scope	en	4K准星枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_LongScope_00	verified
+4Kスコープ	ja	4K准星枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_LongScope_00	verified
+Custom E-liter 4K Scope	en	4K准星枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_LongScope_01	verified
+4Kスコープカスタム	ja	4K准星枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_LongScope_01	verified
+E-liter 4K	en	公升4K		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Long_00	verified
+リッター4K	ja	公升4K		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Long_00	verified
+Custom E-liter 4K	en	公升4K 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Long_01	verified
+リッター4Kカスタム	ja	公升4K 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Long_01	verified
+Splatterscope	en	斯普拉准星枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_NormalScope_00	verified
+スプラスコープ	ja	斯普拉准星枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_NormalScope_00	verified
+Z+F Splatterscope	en	斯普拉准星枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_NormalScope_01	verified
+スプラスコープコラボ	ja	斯普拉准星枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_NormalScope_01	verified
+Splatterscope CAM-O	en	斯普拉准星枪FRST		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_NormalScope_02	verified
+スプラスコープFRST	ja	斯普拉准星枪FRST		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_NormalScope_02	verified
+Splat Charger	en	斯普拉蓄力狙击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Normal_00	verified
+スプラチャージャー	ja	斯普拉蓄力狙击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Normal_00	verified
+Z+F Splat Charger	en	斯普拉蓄力狙击枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Normal_01	verified
+スプラチャージャーコラボ	ja	斯普拉蓄力狙击枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Normal_01	verified
+Splat Charger CAM-O	en	斯普拉蓄力狙击枪FRST		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Normal_02	verified
+スプラチャージャーFRST	ja	斯普拉蓄力狙击枪FRST		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Normal_02	verified
+Order Charger Replica	en	秩序蓄力狙击枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Normal_O	verified
+オーダーチャージャー レプリカ	ja	秩序蓄力狙击枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Normal_O	verified
+Snipewriter 5H	en	R-PEN/5H		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Pencil_00	verified
+R-PEN/5H	ja	R-PEN/5H		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Pencil_00	verified
+Snipewriter 5B	en	R-PEN/5B		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Pencil_01	verified
+R-PEN/5B	ja	R-PEN/5B		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Pencil_01	verified
+Classic Squiffer	en	鱿快洁α		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Quick_00	verified
+スクイックリンα	ja	鱿快洁α		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Quick_00	verified
+New Squiffer	en	鱿快洁β		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Quick_01	verified
+スクイックリンβ	ja	鱿快洁β		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Charger_Quick_01	verified
+Grizzco Dualies	en	熊先生印章机动枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Bear_Coop	verified
+クマサン印のマニューバー	ja	熊先生印章机动枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Bear_Coop	verified
+Dualie Squelchers	en	双重清洁枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Dual_00	verified
+デュアルスイーパー	ja	双重清洁枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Dual_00	verified
+Custom Dualie Squelchers	en	双重清洁枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Dual_01	verified
+デュアルスイーパーカスタム	ja	双重清洁枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Dual_01	verified
+Hoofz Dualie Squelchers	en	双重清洁枪 蹄		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Dual_02	verified
+デュアルスイーパー蹄	ja	双重清洁枪 蹄		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Dual_02	verified
+Glooga Dualies	en	开尔文525		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Gallon_00	verified
+ケルビン525	ja	开尔文525		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Gallon_00	verified
+Glooga Dualies Deco	en	开尔文525 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Gallon_01	verified
+ケルビン525デコ	ja	开尔文525 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Gallon_01	verified
+Douser Dualies FF	en	灭熄FF		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Long_00	verified
+ガエンFF	ja	灭熄FF		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Long_00	verified
+Custom Douser Dualies FF	en	灭熄FF 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Long_01	verified
+ガエンFFカスタム	ja	灭熄FF 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Long_01	verified
+Splat Dualies	en	斯普拉机动枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Normal_00	verified
+スプラマニューバー	ja	斯普拉机动枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Normal_00	verified
+Enperry Splat Dualies	en	斯普拉机动枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Normal_01	verified
+スプラマニューバーコラボ	ja	斯普拉机动枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Normal_01	verified
+Twinklez Splat Dualies	en	斯普拉机动枪 耀		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Normal_02	verified
+スプラマニューバー耀	ja	斯普拉机动枪 耀		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Normal_02	verified
+Order Dualie Replicas	en	秩序机动枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Normal_O	verified
+オーダーマニューバー レプリカ	ja	秩序机动枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Normal_O	verified
+Dapple Dualies	en	溅镀枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Short_00	verified
+スパッタリー	ja	溅镀枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Short_00	verified
+Dapple Dualies Nouveau	en	溅镀枪·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Short_01	verified
+スパッタリー・ヒュー	ja	溅镀枪·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Short_01	verified
+Dapple Dualies NOC-T	en	溅镀枪OWL		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Short_02	verified
+スパッタリーOWL	ja	溅镀枪OWL		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Short_02	verified
+Dark Tetra Dualies	en	四重弹跳手枪 黑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Stepper_00	verified
+クアッドホッパーブラック	ja	四重弹跳手枪 黑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Stepper_00	verified
+Light Tetra Dualies	en	四重弹跳手枪 白		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Stepper_01	verified
+クアッドホッパーホワイト	ja	四重弹跳手枪 白		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Maneuver_Stepper_01	verified
+Grizzco Roller	en	熊先生印章滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Bear_Coop	verified
+クマサン印のローラー	ja	熊先生印章滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Bear_Coop	verified
+Carbon Roller	en	碳纤维滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Compact_00	verified
+カーボンローラー	ja	碳纤维滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Compact_00	verified
+Carbon Roller Deco	en	碳纤维滚筒 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Compact_01	verified
+カーボンローラーデコ	ja	碳纤维滚筒 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Compact_01	verified
+Carbon Roller ANG-L	en	碳纤维滚筒ANGL		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Compact_02	verified
+カーボンローラーANGL	ja	碳纤维滚筒ANGL		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Compact_02	verified
+Dynamo Roller	en	电动马达滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Heavy_00	verified
+ダイナモローラー	ja	电动马达滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Heavy_00	verified
+Gold Dynamo Roller	en	电动马达滚筒 高磁波		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Heavy_01	verified
+ダイナモローラーテスラ	ja	电动马达滚筒 高磁波		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Heavy_01	verified
+Starz Dynamo Roller	en	电动马达滚筒 冥		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Heavy_02	verified
+ダイナモローラー冥	ja	电动马达滚筒 冥		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Heavy_02	verified
+Flingza Roller	en	可变式滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Hunter_00	verified
+ヴァリアブルローラー	ja	可变式滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Hunter_00	verified
+Foil Flingza Roller	en	可变式滚筒 金属箔		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Hunter_01	verified
+ヴァリアブルローラーフォイル	ja	可变式滚筒 金属箔		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Hunter_01	verified
+Splat Roller	en	斯普拉滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Normal_00	verified
+スプラローラー	ja	斯普拉滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Normal_00	verified
+Krak-On Splat Roller	en	斯普拉滚筒 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Normal_01	verified
+スプラローラーコラボ	ja	斯普拉滚筒 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Normal_01	verified
+Order Roller Replica	en	秩序滚筒 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Normal_O	verified
+オーダーローラー レプリカ	ja	秩序滚筒 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Normal_O	verified
+Big Swig Roller	en	宽滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Wide_00	verified
+ワイドローラー	ja	宽滚筒		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Wide_00	verified
+Big Swig Roller Express	en	宽滚筒 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Wide_01	verified
+ワイドローラーコラボ	ja	宽滚筒 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Wide_01	verified
+Planetz Big Swig Roller	en	宽滚筒 惑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Wide_02	verified
+ワイドローラー惑	ja	宽滚筒 惑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Roller_Wide_02	verified
+Grizzco Splatana	en	熊先生印章刮水刀		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Bear_Coop	verified
+クマサン印のワイパー	ja	熊先生印章刮水刀		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Bear_Coop	verified
+Mint Decavitator	en	巨齿刮水刀 薄荷		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Heavy_00	verified
+デンタルワイパーミント	ja	巨齿刮水刀 薄荷		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Heavy_00	verified
+Charcoal Decavitator	en	巨齿刮水刀 墨黑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Heavy_01	verified
+デンタルワイパースミ	ja	巨齿刮水刀 墨黑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Heavy_01	verified
+Splatana Wiper	en	雨刷刮水刀		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Lite_00	verified
+ドライブワイパー	ja	雨刷刮水刀		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Lite_00	verified
+Splatana Wiper Deco	en	雨刷刮水刀 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Lite_01	verified
+ドライブワイパーデコ	ja	雨刷刮水刀 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Lite_01	verified
+Splatana Wiper RUS-T	en	雨刷刮水刀RUST		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Lite_02	verified
+ドライブワイパーRUST	ja	雨刷刮水刀RUST		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Lite_02	verified
+Splatana Stamper	en	工作刮水刀		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Normal_00	verified
+ジムワイパー	ja	工作刮水刀		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Normal_00	verified
+Splatana Stamper Nouveau	en	工作刮水刀·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Normal_01	verified
+ジムワイパー・ヒュー	ja	工作刮水刀·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Normal_01	verified
+Stickerz Splatana Stamper	en	工作刮水刀 封		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Normal_02	verified
+ジムワイパー封	ja	工作刮水刀 封		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Normal_02	verified
+Order Splatana Replica	en	秩序刮水刀 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Normal_O	verified
+オーダーワイパー レプリカ	ja	秩序刮水刀 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Saber_Normal_O	verified
+Grizzco Brella	en	熊先生印章防空伞		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Bear_Coop	verified
+クマサン印のシェルター	ja	熊先生印章防空伞		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Bear_Coop	verified
+Undercover Brella	en	特工配件		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Compact_00	verified
+スパイガジェット	ja	特工配件		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Compact_00	verified
+Undercover Sorella Brella	en	特工配件 姐妹		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Compact_01	verified
+スパイガジェットソレーラ	ja	特工配件 姐妹		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Compact_01	verified
+Patternz Undercover Brella	en	特工配件 缭		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Compact_02	verified
+スパイガジェット繚	ja	特工配件 缭		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Compact_02	verified
+Recycled Brella 24 Mk I	en	24式可替换伞·甲		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Focus_00	verified
+24式張替傘・甲	ja	24式可替换伞·甲		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Focus_00	verified
+Recycled Brella 24 Mk II	en	24式可替换伞·乙		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Focus_01	verified
+24式張替傘・乙	ja	24式可替换伞·乙		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Focus_01	verified
+Splat Brella	en	遮阳防空伞		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Normal_00	verified
+パラシェルター	ja	遮阳防空伞		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Normal_00	verified
+Sorella Brella	en	遮阳防空伞 姐妹		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Normal_01	verified
+パラシェルターソレーラ	ja	遮阳防空伞 姐妹		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Normal_01	verified
+Order Brella Replica	en	秩序防空伞 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Normal_O	verified
+オーダーシェルター レプリカ	ja	秩序防空伞 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Normal_O	verified
+Tenta Brella	en	露营防空伞		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Wide_00	verified
+キャンピングシェルター	ja	露营防空伞		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Wide_00	verified
+Tenta Sorella Brella	en	露营防空伞 姐妹		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Wide_01	verified
+キャンピングシェルターソレーラ	ja	露营防空伞 姐妹		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Wide_01	verified
+Tenta Brella CRE-M	en	露营防空伞CREM		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Wide_02	verified
+キャンピングシェルターCREM	ja	露营防空伞CREM		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shelter_Wide_02	verified
+Aerospray MG	en	专业模型枪MG		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Blaze_00	verified
+プロモデラーMG	ja	专业模型枪MG		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Blaze_00	verified
+Aerospray RG	en	专业模型枪RG		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Blaze_01	verified
+プロモデラーRG	ja	专业模型枪RG		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Blaze_01	verified
+Colorz Aerospray	en	专业模型枪 彩		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Blaze_02	verified
+プロモデラー彩	ja	专业模型枪 彩		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Blaze_02	verified
+Splattershot Pro	en	顶尖射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Expert_00	verified
+プライムシューター	ja	顶尖射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Expert_00	verified
+Forge Splattershot Pro	en	顶尖射击枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Expert_01	verified
+プライムシューターコラボ	ja	顶尖射击枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Expert_01	verified
+Splattershot Pro FRZ-N	en	顶尖射击枪FRZN		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Expert_02	verified
+プライムシューターFRZN	ja	顶尖射击枪FRZN		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Expert_02	verified
+Splattershot Jr.	en	新叶射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_First_00	verified
+わかばシューター	ja	新叶射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_First_00	verified
+Custom Splattershot Jr.	en	枫叶射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_First_01	verified
+もみじシューター	ja	枫叶射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_First_01	verified
+Squeezer	en	开瓶喷泉枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Flash_00	verified
+ボトルガイザー	ja	开瓶喷泉枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Flash_00	verified
+Foil Squeezer	en	开瓶喷泉枪 金属箔		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Flash_01	verified
+ボトルガイザーフォイル	ja	开瓶喷泉枪 金属箔		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Flash_01	verified
+.52 Gal	en	.52加仑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Gravity_00	verified
+.52ガロン	ja	.52加仑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Gravity_00	verified
+.52 Gal Deco	en	.52加仑 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Gravity_01	verified
+.52ガロンデコ	ja	.52加仑 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Gravity_01	verified
+.96 Gal	en	.96加仑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Heavy_00	verified
+.96ガロン	ja	.96加仑		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Heavy_00	verified
+.96 Gal Deco	en	.96加仑 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Heavy_01	verified
+.96ガロンデコ	ja	.96加仑 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Heavy_01	verified
+Clawz .96 Gal	en	.96加仑 爪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Heavy_02	verified
+.96ガロン爪	ja	.96加仑 爪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Heavy_02	verified
+Jet Squelcher	en	喷射清洁枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Long_00	verified
+ジェットスイーパー	ja	喷射清洁枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Long_00	verified
+Custom Jet Squelcher	en	喷射清洁枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Long_01	verified
+ジェットスイーパーカスタム	ja	喷射清洁枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Long_01	verified
+Jet Squelcher COB-R	en	喷射清洁枪COBR		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Long_02	verified
+ジェットスイーパーCOBR	ja	喷射清洁枪COBR		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Long_02	verified
+ヒーローシューターLv1	en	ヒーローシューターLv1		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_MissionLv1_00	verified
+ヒーローシューターLv1	ja	ヒーローシューターLv1		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_MissionLv1_00	verified
+ヒーローシューターLv2	en	ヒーローシューターLv2		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_MissionLv2_00	verified
+ヒーローシューターLv2	ja	ヒーローシューターLv2		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_MissionLv2_00	verified
+ヒーローシューターLv3	en	ヒーローシューターLv3		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_MissionLv3_00	verified
+ヒーローシューターLv3	ja	ヒーローシューターLv3		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_MissionLv3_00	verified
+Splattershot	en	斯普拉射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_00	verified
+スプラシューター	ja	斯普拉射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_00	verified
+Tentatek Splattershot	en	斯普拉射击枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_01	verified
+スプラシューターコラボ	ja	斯普拉射击枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_01	verified
+Glamorz Splattershot	en	斯普拉射击枪 煌		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_02	verified
+スプラシューター煌	ja	斯普拉射击枪 煌		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_02	verified
+Hero Shot Replica	en	英雄射击枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_H	verified
+ヒーローシューター レプリカ	ja	英雄射击枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_H	verified
+Order Shot Replica	en	秩序射击枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_O	verified
+オーダーシューター レプリカ	ja	秩序射击枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_O	verified
+Octo Shot Replica	en	章鱼射击枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_Oct	verified
+オクタシューター レプリカ	ja	章鱼射击枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Normal_Oct	verified
+Splash-o-matic	en	窄域标记枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Precision_00	verified
+シャープマーカー	ja	窄域标记枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Precision_00	verified
+Neo Splash-o-matic	en	窄域标记枪 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Precision_01	verified
+シャープマーカーネオ	ja	窄域标记枪 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Precision_01	verified
+Splash-o-matic GCK-O	en	窄域标记枪GECK		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Precision_02	verified
+シャープマーカーGECK	ja	窄域标记枪GECK		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Precision_02	verified
+Splattershot Nova	en	太空射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_QuickLong_00	verified
+スペースシューター	ja	太空射击枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_QuickLong_00	verified
+Annaki Splattershot Nova	en	太空射击枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_QuickLong_01	verified
+スペースシューターコラボ	ja	太空射击枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_QuickLong_01	verified
+N-ZAP '85	en	N-ZAP85		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_QuickMiddle_00	verified
+N-ZAP85	ja	N-ZAP85		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_QuickMiddle_00	verified
+N-ZAP '89	en	N-ZAP89		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_QuickMiddle_01	verified
+N-ZAP89	ja	N-ZAP89		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_QuickMiddle_01	verified
+Sploosh-o-matic	en	广域标记枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Short_00	verified
+ボールドマーカー	ja	广域标记枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Short_00	verified
+Neo Sploosh-o-matic	en	广域标记枪 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Short_01	verified
+ボールドマーカーネオ	ja	广域标记枪 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_Short_01	verified
+H-3 Nozzlenose	en	H3卷管枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleMiddle_00	verified
+H3リールガン	ja	H3卷管枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleMiddle_00	verified
+H-3 Nozzlenose D	en	H3卷管枪D		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleMiddle_01	verified
+H3リールガンD	ja	H3卷管枪D		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleMiddle_01	verified
+H-3 Nozzlenose VIP-R	en	H3卷管枪SNAK		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleMiddle_02	verified
+H3リールガンSNAK	ja	H3卷管枪SNAK		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleMiddle_02	verified
+L-3 Nozzlenose	en	L3卷管枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleQuick_00	verified
+L3リールガン	ja	L3卷管枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleQuick_00	verified
+L-3 Nozzlenose D	en	L3卷管枪D		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleQuick_01	verified
+L3リールガンD	ja	L3卷管枪D		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleQuick_01	verified
+Glitterz L-3 Nozzlenose	en	L3卷管枪 箔		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleQuick_02	verified
+L3リールガン箔	ja	L3卷管枪 箔		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Shooter_TripleQuick_02	verified
+Bloblobber	en	满溢泡澡泼桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Bathtub_00	verified
+オーバーフロッシャー	ja	满溢泡澡泼桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Bathtub_00	verified
+Bloblobber Deco	en	满溢泡澡泼桶 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Bathtub_01	verified
+オーバーフロッシャーデコ	ja	满溢泡澡泼桶 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Bathtub_01	verified
+Grizzco Slosher	en	熊先生印章泼桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Bear_Coop	verified
+クマサン印のスロッシャー	ja	熊先生印章泼桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Bear_Coop	verified
+Tri-Slosher	en	洗笔桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Diffusion_00	verified
+ヒッセン	ja	洗笔桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Diffusion_00	verified
+Tri-Slosher Nouveau	en	洗笔桶·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Diffusion_01	verified
+ヒッセン・ヒュー	ja	洗笔桶·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Diffusion_01	verified
+Tri-Slosher ASH-N	en	洗笔桶ASH		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Diffusion_02	verified
+ヒッセンASH	ja	洗笔桶ASH		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Diffusion_02	verified
+Dread Wringer	en	墨瀑淋		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Double_00	verified
+モップリン	ja	墨瀑淋		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Double_00	verified
+Dread Wringer D	en	墨瀑淋D		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Double_01	verified
+モップリンD	ja	墨瀑淋D		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Double_01	verified
+Hornz Dread Wringer	en	墨瀑淋 角		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Double_02	verified
+モップリン角	ja	墨瀑淋 角		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Double_02	verified
+Sloshing Machine	en	回旋泼桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Launcher_00	verified
+スクリュースロッシャー	ja	回旋泼桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Launcher_00	verified
+Sloshing Machine Neo	en	回旋泼桶 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Launcher_01	verified
+スクリュースロッシャーネオ	ja	回旋泼桶 新型		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Launcher_01	verified
+バケットスロッシャー	ja	飞溅泼桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Strong_00	verified
+Slosher Deco	en	飞溅泼桶 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Strong_01	verified
+バケットスロッシャーデコ	ja	飞溅泼桶 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Strong_01	verified
+Order Slosher Replica	en	秩序泼桶 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Strong_O	verified
+オーダースロッシャー レプリカ	ja	秩序泼桶 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Strong_O	verified
+Explosher	en	爆炸泼桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Washtub_00	verified
+エクスプロッシャー	ja	爆炸泼桶		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Washtub_00	verified
+Custom Explosher	en	爆炸泼桶 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Washtub_01	verified
+エクスプロッシャーカスタム	ja	爆炸泼桶 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Slosher_Washtub_01	verified
+Ballpoint Splatling	en	圆珠笔		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Downpour_00	verified
+クーゲルシュライバー	ja	圆珠笔		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Downpour_00	verified
+Ballpoint Splatling Nouveau	en	圆珠笔·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Downpour_01	verified
+クーゲルシュライバー・ヒュー	ja	圆珠笔·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Downpour_01	verified
+Heavy Edit Splatling	en	审查者		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_HyperShort_00	verified
+イグザミナー	ja	审查者		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_HyperShort_00	verified
+Heavy Edit Splatling Nouveau	en	审查者·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_HyperShort_01	verified
+イグザミナー・ヒュー	ja	审查者·新艺术		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_HyperShort_01	verified
+Hydra Splatling	en	消防栓旋转枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Hyper_00	verified
+ハイドラント	ja	消防栓旋转枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Hyper_00	verified
+Custom Hydra Splatling	en	消防栓旋转枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Hyper_01	verified
+ハイドラントカスタム	ja	消防栓旋转枪 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Hyper_01	verified
+Torrentz Hydra Splatling	en	消防栓旋转枪 压		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Hyper_02	verified
+ハイドラント圧	ja	消防栓旋转枪 压		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Hyper_02	verified
+Mini Splatling	en	斯普拉旋转枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Quick_00	verified
+スプラスピナー	ja	斯普拉旋转枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Quick_00	verified
+Zink Mini Splatling	en	斯普拉旋转枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Quick_01	verified
+スプラスピナーコラボ	ja	斯普拉旋转枪 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Quick_01	verified
+Mini Splatling RTL-R	en	斯普拉旋转枪PYTN		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Quick_02	verified
+スプラスピナーPYTN	ja	斯普拉旋转枪PYTN		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Quick_02	verified
+Nautilus 47	en	鹦鹉螺号47		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Serein_00	verified
+ノーチラス47	ja	鹦鹉螺号47		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Serein_00	verified
+Nautilus 79	en	鹦鹉螺号79		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Serein_01	verified
+ノーチラス79	ja	鹦鹉螺号79		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Serein_01	verified
+Heavy Splatling	en	桶装旋转枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Standard_00	verified
+バレルスピナー	ja	桶装旋转枪		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Standard_00	verified
+Heavy Splatling Deco	en	桶装旋转枪 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Standard_01	verified
+バレルスピナーデコ	ja	桶装旋转枪 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Standard_01	verified
+Order Splatling Replica	en	秩序旋转枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Standard_O	verified
+オーダースピナー レプリカ	ja	秩序旋转枪 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Spinner_Standard_O	verified
+Grizzco Stringer	en	熊先生印章猎鱼弓		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Bear_Coop	verified
+クマサン印のストリンガー	ja	熊先生印章猎鱼弓		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Bear_Coop	verified
+Wellstring V	en	邦普V		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Explosion_00	verified
+フルイドV	ja	邦普V		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Explosion_00	verified
+Custom Wellstring V	en	邦普V 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Explosion_01	verified
+フルイドVカスタム	ja	邦普V 改装		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Explosion_01	verified
+Tri-Stringer	en	三发猎鱼弓		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Normal_00	verified
+トライストリンガー	ja	三发猎鱼弓		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Normal_00	verified
+Inkline Tri-Stringer	en	三发猎鱼弓 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Normal_01	verified
+トライストリンガーコラボ	ja	三发猎鱼弓 联名		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Normal_01	verified
+Bulbz Tri-Stringer	en	三发猎鱼弓 灯		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Normal_02	verified
+トライストリンガー燈	ja	三发猎鱼弓 灯		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Normal_02	verified
+Order Stringer Replica	en	秩序猎鱼弓 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Normal_O	verified
+オーダーストリンガー レプリカ	ja	秩序猎鱼弓 复制		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Normal_O	verified
+REEF-LUX 450	en	LACT-450		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Short_00	verified
+LACT-450	ja	LACT-450		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Short_00	verified
+REEF-LUX 450 Deco	en	LACT-450 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Short_01	verified
+LACT-450デコ	ja	LACT-450 装饰		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Short_01	verified
+REEF-LUX 450 MIL-K	en	LACT-450MILK		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Short_02	verified
+LACT-450MILK	ja	LACT-450MILK		主武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Main#Stringer_Short_02	verified
+Ink Vac	en	吸墨机		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpBlower	verified
+キューインキ	ja	吸墨机		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpBlower	verified
+Kraken Royale	en	帝王鱿鱼		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpCastle	verified
+テイオウイカ	ja	帝王鱿鱼		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpCastle	verified
+Crab Tank	en	螃蟹坦克		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpChariot	verified
+カニタンク	ja	螃蟹坦克		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpChariot	verified
+Splattercolor Screen	en	浮墨幕墙		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpChimney	verified
+スミナガシート	ja	浮墨幕墙		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpChimney	verified
+Tacticooler	en	能量站		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpEnergyStand	verified
+エナジースタンド	ja	能量站		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpEnergyStand	verified
+Super Chump	en	诱饵烟花		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpFirework	verified
+デコイチラシ	ja	诱饵烟花		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpFirework	verified
+ガチホコ	ja	真格鱼虎		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpGachihoko	verified
+Big Bubbler	en	巨大防护罩		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpGreatBarrier	verified
+グレートバリア	ja	巨大防护罩		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpGreatBarrier	verified
+Ink Storm	en	墨雨云		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpInkStorm	verified
+アメフラシ	ja	墨雨云		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpInkStorm	verified
+Inkjet	en	喷射背包		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpJetpack	verified
+ジェットパック	ja	喷射背包		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpJetpack	verified
+Killer Wail 5.1	en	喇叭镭射5.1ch		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpMicroLaser	verified
+メガホンレーザー5.1ch	ja	喇叭镭射5.1ch		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpMicroLaser	verified
+Tenta Missiles	en	多重导弹		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpMultiMissile	verified
+マルチミサイル	ja	多重导弹		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpMultiMissile	verified
+Booyah Bomb	en	赞气弹		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpNiceBall	verified
+ナイスダマ	ja	赞气弹		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpNiceBall	verified
+Triple Splashdown	en	终极着陆		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpPogo	verified
+ウルトラチャクチ	ja	终极着陆		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpPogo	verified
+Wave Breaker	en	弹跳声呐		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpShockSonar	verified
+ホップソナー	ja	弹跳声呐		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpShockSonar	verified
+Reefslider	en	鲨鱼坐骑		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpSkewer	verified
+サメライド	ja	鲨鱼坐骑		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpSkewer	verified
+Zipcaster	en	触手喷射		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpSuperHook	verified
+ショクワンダー	ja	触手喷射		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpSuperHook	verified
+Splashdown	en	超级着陆		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpSuperLanding	verified
+スーパーチャクチ	ja	超级着陆		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpSuperLanding	verified
+Triple Inkstrike	en	三重龙卷风		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpTripleTornado	verified
+トリプルトルネード	ja	三重龙卷风		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpTripleTornado	verified
+Trizooka	en	终极发射		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpUltraShot	verified
+ウルトラショット	ja	终极发射		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpUltraShot	verified
+Ultra Stamp	en	终极印章		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpUltraStamp	verified
+ウルトラハンコ	ja	终极印章		特殊武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Special#SpUltraStamp	verified
+Squid Beakon	en	跳跃信标		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Beacon	verified
+ジャンプビーコン	ja	跳跃信标		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Beacon	verified
+Curling Bomb	en	冰壶炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Curling	verified
+カーリングボム	ja	冰壶炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Curling	verified
+Fizzy Bomb	en	碳酸炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Fizzy	verified
+タンサンボム	ja	碳酸炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Fizzy	verified
+Burst Bomb	en	快速炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Quick	verified
+クイックボム	ja	快速炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Quick	verified
+Autobomb	en	机器人炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Robot	verified
+ロボットボム	ja	机器人炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Robot	verified
+Splat Bomb	en	斯普拉炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Splash	verified
+スプラッシュボム	ja	斯普拉炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Splash	verified
+Suction Bomb	en	吸盘炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Suction	verified
+キューバンボム	ja	吸盘炸弹		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Suction	verified
+Torpedo	en	鱼雷		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Torpedo	verified
+トーピード	ja	鱼雷		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Bomb_Torpedo	verified
+Angle Shooter	en	标线器		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#LineMarker	verified
+ラインマーカー	ja	标线器		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#LineMarker	verified
+Point Sensor	en	定点侦测器		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#PointSensor	verified
+ポイントセンサー	ja	定点侦测器		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#PointSensor	verified
+Toxic Mist	en	毒雾		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#PoisonMist	verified
+ポイズンミスト	ja	毒雾		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#PoisonMist	verified
+Smallfry	en	小鲑鱼		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#SalmonBuddy	verified
+コジャケ	ja	小鲑鱼		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#SalmonBuddy	verified
+Splash Wall	en	斯普拉防护墙		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Shield	verified
+スプラッシュシールド	ja	斯普拉防护墙		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Shield	verified
+Sprinkler	en	洒墨器		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Sprinkler	verified
+スプリンクラー	ja	洒墨器		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Sprinkler	verified
+Ink Mine	en	墨汁陷阱		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Trap	verified
+トラップ	ja	墨汁陷阱		副武器	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponName_Sub#Trap	verified
+Blasters	en	爆破枪		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Blaster	verified
+ブラスター	ja	爆破枪		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Blaster	verified
+Brushes	en	画笔		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Brush	verified
+Chargers	en	蓄力狙击枪		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Charger	verified
+Rollers	en	滚筒		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Roller	verified
+Splatanas	en	刮水刀		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Saber	verified
+Brellas	en	防空伞		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Shelter	verified
+Shooters	en	射击枪		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Shooter	verified
+Sloshers	en	泼桶		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Slosher	verified
+Splatlings	en	旋转枪		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Spinner	verified
+Stringers	en	猎鱼弓		武器类别	斯普拉遁3		游戏语言文件：CommonMsg/Weapon/WeaponTypeName#Stringer	verified

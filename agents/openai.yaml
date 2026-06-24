@@ -1,0 +1,4 @@
+interface:
+  display_name: "斯普拉遁日英翻中"
+  short_description: "将斯普拉遁日文和英文内容翻译为自然、术语一致的简体中文"
+  default_prompt: "使用 $translate-splatoon-zh 将这段斯普拉遁日文或英文自然地翻译成简体中文。"

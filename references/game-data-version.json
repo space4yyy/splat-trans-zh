@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-06-23",
+  "mirror": "https://leanny.github.io/splat3/data/language/",
+  "sources": {
+    "JPja": {
+      "url": "https://leanny.github.io/splat3/data/language/JPja.json",
+      "bytes": 2112423,
+      "sha256": "baaced9b8703255353a75ebbd233c6e49ef283f9ae0b64b285200144247b914e"
+    },
+    "CNzh": {
+      "url": "https://leanny.github.io/splat3/data/language/CNzh.json",
+      "bytes": 1697106,
+      "sha256": "2c0bed6f36f40f1c8cb1325ea6863202fdc6fadca59c658fa29cb0bd5f1ab572"
+    },
+    "EUen": {
+      "url": "https://leanny.github.io/splat3/data/language/EUen.json",
+      "bytes": 1151657,
+      "sha256": "fb73ed8fed0ed16774fa42ad7fb7952696558011b32a5104e0f15fd926abf8e6"
+    }
+  }
+}
