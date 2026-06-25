@@ -29,8 +29,8 @@ rg -n -F -e 'ロングブラスター' -e 'カニタンク' \
 如果没有 `rg`，使用 `grep -nF`、编辑器搜索或其他有边界的文本搜索。内置 Python 查询脚本只是便利工具，不是普通翻译的运行前提。官方术语查询会优先路由到可能的领域文件，只在必要时回退：
 
 ```bash
-python3 scripts/lookup_glossary.py --text '<source text>'
-python3 scripts/lookup_community_terms.py --text '<source text>'
+python3 scripts/lookup.py glossary --text '<source text>'
+python3 scripts/lookup.py community --text '<source text>'
 ```
 
 默认离线翻译。不要为了普通短句、攻略问句、玩家吐槽、方向指示、常见地图/武器简称而使用 WebSearch。只有遇到当前活动、新公告、新作未入表名称、用户明确要求核实、来源冲突、纠错追溯、或敏感/高风险 `seeded` 社群条目时，才联网核实。没有联网或本地查不到时，根据上下文翻译；未知专名保留为 `「原文」`。不要编造音译，也不要把整份 TSV 当作兜底加载。
@@ -53,10 +53,8 @@ python3 scripts/lookup_community_terms.py --text '<source text>'
 只在需要时读取额外文件：
 
 - `references/translation-guide.md`：处理歧义、黑话、对话、截图、双关、校对、更新公告或来源冲突。
-- `references/game-data-sources.md`：只在维护术语表时读取。
-- `references/japanese-community-source.md`：需要 Wiki 路由、来源限制或在线社群核实时读取。
+- `references/maintenance.md`：维护术语表、检查游戏数据来源、处理用户纠错或在线社群核实时读取。
 - `references/translation-regression-cases.tsv`：只用于维护和回归审查；普通翻译不要加载。
-- `references/correction-workflow.md`：用户指出翻译错误后按此流程处理。
 
 ## 翻译规则
 
@@ -91,13 +89,13 @@ python3 scripts/lookup_community_terms.py --text '<source text>'
 ## 维护术语表
 
 - Python 只作为术语表再生成和校验工具；普通翻译不依赖 Python。
-- 用 `python3 scripts/check_game_data_version.py` 检查来源新鲜度。
+- 用 `python3 scripts/validate.py version` 检查来源新鲜度。
 - 用 `scripts/import_game_localizations.py` 重新生成游戏解包术语。
 - 官方术语按领域存放：`core.tsv`、`weapons.tsv`、`stages.tsv`、`gear.tsv`。
-- 用 `python3 scripts/check_glossary.py references/glossary` 校验官方术语修改。
-- 用 `python3 scripts/check_community_terms.py references/community-terms.tsv` 校验社群术语修改。
-- 用 `python3 scripts/check_translation_cases.py references/translation-regression-cases.tsv` 校验黄金翻译用例。
-- 用 `python3 scripts/smoke_test.py` 跑回归检查。
-- 用 `python3 scripts/validate_all.py` 跑全部离线检查。
+- 用 `python3 scripts/validate.py glossary references/glossary` 校验官方术语修改。
+- 用 `python3 scripts/validate.py community references/community-terms.tsv` 校验社群术语修改。
+- 用 `python3 scripts/validate.py cases references/translation-regression-cases.tsv` 校验黄金翻译用例。
+- 用 `python3 scripts/validate.py smoke` 跑回归检查。
+- 用 `python3 scripts/validate.py all` 跑全部离线检查。
 - `references/community-terms.tsv` 保持简洁、转述式记录；不要复制 Wiki 原文长段或评论。
 - 用户纠错被官方或可靠来源确认后，更新相关 reference；如果同类错误可能复发，增加回归用例。
