@@ -107,6 +107,9 @@ def main() -> int:
     require(slang, "盤面を荒らす\t搅乱场面")
     reject(slang, "盤面\t场面")
 
+    stage_short_name = run("lookup_community_terms.py", "--text", "どんぴこ")
+    require(stage_short_name, "どんぴこ\t鲑鱼心脏斗技场")
+
     abbreviations = run(
         "lookup_community_terms.py",
         "--text",
