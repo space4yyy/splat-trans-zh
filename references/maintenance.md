@@ -78,3 +78,65 @@ When online tools are available, open only the most relevant page and find the s
 The site prohibits reposting comments beyond legally permitted quotation. Store only short paraphrased conclusions with the source URL, not copied articles or comment threads.
 
 Rows marked `seeded` in `community-terms.tsv` are locally curated starting points and have not necessarily been checked line-by-line against the linked page. Change a row to `verified` only after confirming its usage on the cited page.
+
+Use the `风险` column to decide review priority:
+
+- `高`: derogatory, judgmental, or easy to overstate. Verify before using in formal text.
+- `中`: ambiguous abbreviation, context-sensitive map/mode/weapon term, or wording that may need sentence-level judgment.
+- `低`: common tactical or system wording with low harm if paraphrased naturally.
+
+## SkillHub release workflow
+
+Use this process when publishing or updating this skill on 小红书 SkillHub.
+
+Install or refresh the uploader if needed:
+
+```bash
+npm install -g "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8320o5lkablm0653u0hejenq0004pf88njcmq3g.tgz"
+mkdir -p ~/.agents/skills/skillhub-upload
+cp "$(npm root -g)/@xhs/skillhub-upload/skill/SKILL.md" \
+  ~/.agents/skills/skillhub-upload/SKILL.md
+```
+
+Validated publish parameters for this project:
+
+- Local skill path: `/Users/space4/Projects/splat-trans-zh`
+- Skill ID: `translate-splatoon-zh`
+- Display name: `斯普拉遁翻译`
+- Source: `original`
+- Tag: `效率工具`
+
+Do not submit with the frontmatter `name` (`translate-splatoon-zh`) as the display name; SkillHub rejected it as too long. Keep the platform display name short and pass the stable Skill ID explicitly.
+
+Before submitting, run local validation and dry-run:
+
+```bash
+python3 scripts/validate.py all
+node /opt/homebrew/lib/node_modules/@xhs/skillhub-upload/cli/index.mjs publish \
+  /Users/space4/Projects/splat-trans-zh \
+  --dry-run --agent \
+  --source original \
+  --tag 效率工具 \
+  --name 斯普拉遁翻译 \
+  --identifier translate-splatoon-zh
+```
+
+After reviewing the dry-run payload, submit:
+
+```bash
+printf 'submit\n' | node /opt/homebrew/lib/node_modules/@xhs/skillhub-upload/cli/index.mjs publish \
+  /Users/space4/Projects/splat-trans-zh \
+  --agent \
+  --source original \
+  --tag 效率工具 \
+  --name 斯普拉遁翻译 \
+  --identifier translate-splatoon-zh
+```
+
+If the CLI returns `NEED_LOGIN`, run:
+
+```bash
+node /opt/homebrew/lib/node_modules/@xhs/skillhub-upload/cli/index.mjs login --agent
+```
+
+Follow the device authorization prompt, then rerun the submit command. The first successful SkillHub submission used `skill_id=2684` and `version_id=3269`; future updates should keep the same Skill ID and publish a new version.

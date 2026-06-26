@@ -36,10 +36,11 @@ GLOSSARY_LANGUAGES = {"ja", "en"}
 GLOSSARY_STATUSES = {"verified", "community", "contextual", "review"}
 PLACEHOLDER_VALUES = {"-", "—", "N/A", "n/a", "None", "none", "null"}
 GENERATED_EVIDENCE_PREFIX = "游戏语言文件："
-COMMUNITY_COLUMNS = ["日文", "推荐简中", "类别", "说明", "来源", "状态"]
+COMMUNITY_COLUMNS = ["日文", "推荐简中", "类别", "说明", "来源", "状态", "风险"]
 COMMUNITY_STATUSES = {"seeded", "verified"}
+COMMUNITY_RISKS = {"低", "中", "高"}
 CASE_COLUMNS = ["编号", "类型", "原文", "参考译文", "必须包含", "禁止包含", "说明"]
-CASE_TYPES = {"公告", "攻略", "对话", "吐槽", "未知专名"}
+CASE_TYPES = {"公告", "攻略", "对话", "吐槽", "未知专名", "鲑鱼跑", "补丁", "术语", "短句", "社交帖", "系统"}
 
 
 def split_values(value: str) -> list[str]:
@@ -157,6 +158,10 @@ def validate_community_path(path: Path) -> list[str]:
                 seen[term] = line
             if row["状态"] not in COMMUNITY_STATUSES:
                 errors.append(f"第 {line} 行：未知状态 {row['状态']!r}")
+            if row["风险"] not in COMMUNITY_RISKS:
+                errors.append(f"第 {line} 行：未知风险 {row['风险']!r}")
+            if row["风险"] == "高" and not row["说明"].strip():
+                errors.append(f"第 {line} 行：高风险术语必须说明语气或限制")
             if not row["来源"].startswith("https://"):
                 errors.append(f"第 {line} 行：来源必须是 HTTPS URL")
     return errors

@@ -219,6 +219,7 @@ def community_json_row(row: dict[str, str], confidence: str) -> dict[str, str]:
         "note": row["说明"],
         "source_url": row["来源"],
         "status": row["状态"],
+        "risk": row["风险"],
         "context_confidence": confidence,
     }
 
@@ -276,7 +277,7 @@ def lookup_community(args: argparse.Namespace) -> int:
         if confidence != "确定":
             fields.append(f"语境={confidence}")
         if args.details:
-            fields.extend([row["来源"], f"状态={row['状态']}"])
+            fields.extend([row["来源"], f"状态={row['状态']}", f"风险={row['风险']}"])
         print("\t".join(fields))
     return 0
 
