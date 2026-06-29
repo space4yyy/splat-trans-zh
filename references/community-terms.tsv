@@ -25,7 +25,8 @@
 芋る	蹲在后排	玩家评价	长期停留后方或固定位置不推进	https://wikiwiki.jp/splatoon3mix/用語集/対戦関連用語	seeded	高
 野良	路人局	玩家环境	未预先组队的随机匹配玩家或队伍	https://wikiwiki.jp/splatoon3mix/用語集/対戦関連用語	seeded	低
 帯域	分段	匹配环境	相近实力、排名或分数形成的玩家区间	https://wikiwiki.jp/splatoon3mix/用語集/対戦関連用語	seeded	中
-イカ速	鱿鱼冲刺速度	装备简称	装备能力“提升鱿鱼冲刺速度”的简称	https://wikiwiki.jp/splatoon3mix/用語集/ゲーム内用語の略称一覧	seeded	低
+ヒト速	走速	装备简称	装备能力“提升人类移动速度”的简称；正式文本使用完整装备能力名	https://wikiwiki.jp/splatoon3mix/用語集/ゲーム内用語の略称一覧	seeded	低
+イカ速	游速	装备简称	装备能力“提升鱿鱼冲刺速度”的简称；正式文本使用完整装备能力名	https://wikiwiki.jp/splatoon3mix/用語集/ゲーム内用語の略称一覧	seeded	低
 スペ増	特殊武器增加量	装备简称	装备能力“提升特殊武器增加量”的简称	https://wikiwiki.jp/splatoon3mix/用語集/ゲーム内用語の略称一覧	seeded	低
 スペ性	特殊武器性能	装备简称	装备能力“提升特殊武器性能”的简称	https://wikiwiki.jp/splatoon3mix/用語集/ゲーム内用語の略称一覧	seeded	低
 インクロック	墨汁回复锁定	系统机制	使用武器后暂时不能开始回复墨汁的时间	https://wikiwiki.jp/splatoon3mix/用語集/対戦関連用語	seeded	低
@@ -49,6 +50,8 @@
 湧き	刷怪	鲑鱼跑机制	敌人生成或出现；名词语境也可译为刷怪点或刷新情况	https://wikiwiki.jp/splatoon3mix/用語集/スプラトゥーン世界の用語	seeded	低
 沸き	刷怪	鲑鱼跑机制	“湧き”的常见替代写法，指敌人生成或出现	https://wikiwiki.jp/splatoon3mix/用語集/スプラトゥーン世界の用語	seeded	低
 オオモノ	大型鲑鱼	鲑鱼跑简称	“大型鲑鱼”的简称；不应泛译为普通的大型敌人	https://wikiwiki.jp/splatoon3mix/用語集/スプラトゥーン世界の用語	seeded	低
+カタパ	垫肩飞鱼	鲑鱼跑敌人简称	“カタパッド”的常见简称；必须还原为具体大型鲑鱼，不要泛译为飞鱼	https://wikiwiki.jp/splatoon3mix/サーモンラン/オオモノシャケ/カタパッド	seeded	中
+カタパッド	垫肩飞鱼	鲑鱼跑大型鲑鱼	发射导弹的大型鲑鱼；中文应保留“垫肩”以避免泛化成飞鱼	https://wikiwiki.jp/splatoon3mix/サーモンラン/オオモノシャケ/カタパッド	seeded	中
 金イクラ	金鲑鱼卵	鲑鱼跑物品	完成打工交付目标所需的金色鲑鱼卵	https://wikiwiki.jp/splatoon3mix/用語集/スプラトゥーン世界の用語	seeded	低
 ノルマ	目标数量	鲑鱼跑机制	当前波次必须交付的金鲑鱼卵数量；口语可译为指标	https://wikiwiki.jp/splatoon3mix/用語集/スプラトゥーン世界の用語	seeded	低
 処理	处理	鲑鱼跑操作	击倒或控制指定敌人；应结合对象明确译为清掉、解决或处理	https://wikiwiki.jp/splatoon3mix/用語集/スプラトゥーン世界の用語	seeded	低
@@ -57,5 +60,7 @@
 カゴ	蛋篮	鲑鱼跑简称	放入金鲑鱼卵的蛋篮；普通篮子语境不套用	https://wikiwiki.jp/splatoon3mix/用語集/スプラトゥーン世界の用語	seeded	低
 海岸	岸边	鲑鱼跑位置	地图外侧靠海区域，通常距离蛋篮较远	https://wikiwiki.jp/splatoon3mix/用語集/スプラトゥーン世界の用語	seeded	中
 遠征	出远门	鲑鱼跑战术	离开蛋篮附近前往远处处理高威胁目标；正式攻略可译为远征处理	https://wikiwiki.jp/splatoon3mix/用語集/スプラトゥーン世界の用語	seeded	中
+ビッグラン	大润	活动昵称	活动“大型跑”的中文社区昵称；公告和正式说明仍使用“大型跑”	https://wikiwiki.jp/splatoon3mix/ビッグラン	seeded	中
+ビッグビッグラン	大大润	活动昵称	活动“超级大型跑”的中文社区昵称；公告和正式说明仍使用“超级大型跑”	https://wikiwiki.jp/splatoon3mix/ビッグビッグラン	seeded	中
 どんぴこ	鲑鱼心脏斗技场	地图简称	鲑鱼跑地图“どんぴこ闘技場”的常见简称；正式文本使用全名	https://wikiwiki.jp/splatoon3mix/ステージ/どんぴこ闘技場	seeded	中
 沼プレイ	下饭操作	玩家评价	形容离谱失误、低级操作或看起来不清醒的玩法；语气较重，按语境也可译为抽象操作或犯病操作	https://wikiwiki.jp/splatoon3mix/用語集/対戦関連用語	seeded	高
